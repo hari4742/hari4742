@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hari4742
 - 👀 I’m interested in python, web development, cyber security, web and android app development,Quantum computing, just like every one I'm also intrested in ML and AI etc..
 Don't assume that I know everything that I mentioned above. Those are just the things I would like to learn. Hope I learn them ASAP.
-- 🌱 I’m currently learning computer science in a Central University in India.
+- 🌱 I’m currently learning computer science and engineering in a Central University of Haryana in India.
 - 💞️ I’m looking to collaborate on ...................(just don't know what to mention)
 - 📫 How to reach me ...   => on my gmail
 
