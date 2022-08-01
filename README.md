@@ -3,8 +3,6 @@
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Hari👋</span>
 </h2>
 
-<div style="display:flex;justify-content:center;">
-<div style="padding:10px">
 <p style="text-align:justify;">
 I am a student currently studying B.Tech, Computer Science(2024) in Central University of Haryana. I like exploring techonologies and help the mankind to make better lives.
 </p>
@@ -18,14 +16,7 @@ I would love to make some friends. Reach out to me.🤜🤛
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__hari_kiran__/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-k-a18b66105/)
 
-</div>
-<div  style="padding:10px">
-<!-- <img style="border-radius:3px;" height="200px" width="800px"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
-
-![codinggif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-
-</div>
-</div>
+<img style="border-radius:3px;" height="300px"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## ✨**Technical Skills**
 
