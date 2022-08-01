@@ -20,7 +20,10 @@ I would love to make some friends. Reach out to me.🤜🤛
 
 </div>
 <div  style="padding:10px">
-<img style="border-radius:3px;" height="200px" width="800px"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- <img style="border-radius:3px;" height="200px" width="800px"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
+
+![codinggif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
 </div>
 </div>
 
