@@ -16,7 +16,7 @@ I would love to make some friends. Reach out to me.🤜🤛
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__hari_kiran__/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-k-a18b66105/)
 
-<img style="border-radius:3px;" height="300px"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+[![@hari4742's Holopin board](https://holopin.io/api/user/board?user=hari4742)](https://holopin.io/@hari4742)
 
 ## ✨**Technical Skills**
 
