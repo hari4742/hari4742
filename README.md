@@ -1,4 +1,4 @@
-<img width="959" alt="github_readme_banner" src="https://user-images.githubusercontent.com/73326865/182214555-3f710ae6-ff34-4eb0-9f0f-a64a3ac89423.png">
+[![github_banner](https://user-images.githubusercontent.com/73326865/206268329-9ff56ff3-4ee4-4ab2-8ac2-b4514e26858f.png)](https://hari4742.github.io/)
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Hari👋</span>
 </h2>
@@ -15,6 +15,7 @@ I would love to make some friends. Reach out to me.🤜🤛
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=harikiran.kante@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__hari_kiran__/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-k-a18b66105/)
+[![Portfolio](https://img.shields.io/badge/Porfolio-%F0%9F%8C%90-white)](https://hari4742.github.io/)
 
 [![@hari4742's Holopin board](https://holopin.io/api/user/board?user=hari4742)](https://holopin.io/@hari4742)
 
