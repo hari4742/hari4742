@@ -62,13 +62,16 @@ I would love to make some friends. Reach out to me.🤜🤛
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+#### Cloud
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ### Favourite Learning Resource
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 ### **📈GitHub Stats**
 
-[![Hari's github stats](https://github-readme-stats.vercel.app/api?username=hari4742&show_icons=true)](https://github.com/hari4742)
+[![Hari's github stats](https://github-readme-stats.vercel.app/api?username=hari4742&show_icons=true)](https://github.com/hari4742)                     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari4742&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/hari4742)
 
